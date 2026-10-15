@@ -3,7 +3,7 @@ class SdCpp < Formula
   homepage "https://github.com/leejet/stable-diffusion.cpp"
   version "master-929-3f8527a"
   # arm64 (Apple Silicon) only; releases are not notarized, Quarantine is stripped below
-  url "https://github.com/leejet/stable-diffusion.cpp/releases/download/master-950-f2f168f/sd-master-f2f168f-bin-Darwin-macOS-26.6.2-arm64.zip"
+  url "https://github.com/leejet/stable-diffusion.cpp/releases/download/master-968-8cd731e/sd-master-8cd731e-bin-Darwin-macOS-26.6.2-arm64.zip"
   license "MIT"
 
   def caveats
