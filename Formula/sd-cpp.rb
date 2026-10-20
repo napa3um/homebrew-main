@@ -1,9 +1,9 @@
 class SdCpp < Formula
   desc "Stable Diffusion in pure C/C++ (llama.cpp-style, GGML backend)"
   homepage "https://github.com/leejet/stable-diffusion.cpp"
-  version "master-929-3f8527a"
+  version "master-975-95b3090"
   # arm64 (Apple Silicon) only; releases are not notarized, Quarantine is stripped below
-  url "https://github.com/leejet/stable-diffusion.cpp/releases/download/master-968-8cd731e/sd-master-8cd731e-bin-Darwin-macOS-26.6.2-arm64.zip"
+  url "https://github.com/leejet/stable-diffusion.cpp/releases/download/master-975-95b3090/sd-master-95b3090-bin-Darwin-macOS-26.6.2-arm64.zip"
   license "MIT"
 
   def caveats
